@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		313E49791AC4FFF400EE86C3 /* RLInputSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 313E49781AC4FFF400EE86C3 /* RLInputSource.m */; };
+		313E497C1AC5001A00EE86C3 /* RLInputSourceThread.m in Sources */ = {isa = PBXBuildFile; fileRef = 313E497B1AC5001A00EE86C3 /* RLInputSourceThread.m */; };
+		313E497F1AC52D4000EE86C3 /* RTInputSourceManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 313E497E1AC52D4000EE86C3 /* RTInputSourceManager.m */; };
 		31983DE31AC3DDB70045CE9D /* RunLoopThread.m in Sources */ = {isa = PBXBuildFile; fileRef = 31983DE21AC3DDB70045CE9D /* RunLoopThread.m */; };
 		31983DE61AC3DDDA0045CE9D /* CFRunLoopThread.m in Sources */ = {isa = PBXBuildFile; fileRef = 31983DE51AC3DDDA0045CE9D /* CFRunLoopThread.m */; };
 		31983DE91AC3F70E0045CE9D /* ObserverThread.m in Sources */ = {isa = PBXBuildFile; fileRef = 31983DE81AC3F70E0045CE9D /* ObserverThread.m */; };
@@ -30,6 +33,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		313E49771AC4FFF400EE86C3 /* RLInputSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RLInputSource.h; sourceTree = "<group>"; };
+		313E49781AC4FFF400EE86C3 /* RLInputSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RLInputSource.m; sourceTree = "<group>"; };
+		313E497A1AC5001A00EE86C3 /* RLInputSourceThread.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RLInputSourceThread.h; sourceTree = "<group>"; };
+		313E497B1AC5001A00EE86C3 /* RLInputSourceThread.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RLInputSourceThread.m; sourceTree = "<group>"; };
+		313E497D1AC52D4000EE86C3 /* RTInputSourceManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RTInputSourceManager.h; sourceTree = "<group>"; };
+		313E497E1AC52D4000EE86C3 /* RTInputSourceManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RTInputSourceManager.m; sourceTree = "<group>"; };
 		31983DE11AC3DDB70045CE9D /* RunLoopThread.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RunLoopThread.h; sourceTree = "<group>"; };
 		31983DE21AC3DDB70045CE9D /* RunLoopThread.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RunLoopThread.m; sourceTree = "<group>"; };
 		31983DE41AC3DDDA0045CE9D /* CFRunLoopThread.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFRunLoopThread.h; sourceTree = "<group>"; };
@@ -104,6 +113,12 @@
 				31983DE51AC3DDDA0045CE9D /* CFRunLoopThread.m */,
 				31983DE71AC3F70E0045CE9D /* ObserverThread.h */,
 				31983DE81AC3F70E0045CE9D /* ObserverThread.m */,
+				313E49771AC4FFF400EE86C3 /* RLInputSource.h */,
+				313E49781AC4FFF400EE86C3 /* RLInputSource.m */,
+				313E497A1AC5001A00EE86C3 /* RLInputSourceThread.h */,
+				313E497B1AC5001A00EE86C3 /* RLInputSourceThread.m */,
+				313E497D1AC52D4000EE86C3 /* RTInputSourceManager.h */,
+				313E497E1AC52D4000EE86C3 /* RTInputSourceManager.m */,
 			);
 			path = RunLoopLearn1;
 			sourceTree = "<group>";
@@ -238,8 +253,11 @@
 				31983DE31AC3DDB70045CE9D /* RunLoopThread.m in Sources */,
 				31D0EA5A1AC0FB0C002980E2 /* AppDelegate.m in Sources */,
 				31983DE91AC3F70E0045CE9D /* ObserverThread.m in Sources */,
+				313E497F1AC52D4000EE86C3 /* RTInputSourceManager.m in Sources */,
+				313E49791AC4FFF400EE86C3 /* RLInputSource.m in Sources */,
 				31D0EA571AC0FB0C002980E2 /* main.m in Sources */,
 				31983DE61AC3DDDA0045CE9D /* CFRunLoopThread.m in Sources */,
+				313E497C1AC5001A00EE86C3 /* RLInputSourceThread.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

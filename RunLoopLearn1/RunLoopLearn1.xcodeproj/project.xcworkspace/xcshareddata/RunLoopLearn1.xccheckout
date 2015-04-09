@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>369CEE65-4C53-41A6-88FC-35CB2CE56C10</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RunLoopLearn1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1A8AF428B055EC9CC120BD383ACAE7BED0C9576E</key>
+		<string>https://github.com/xiaoc86/RunLoopLearn.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RunLoopLearn1/RunLoopLearn1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1A8AF428B055EC9CC120BD383ACAE7BED0C9576E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xiaoc86/RunLoopLearn.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1A8AF428B055EC9CC120BD383ACAE7BED0C9576E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1A8AF428B055EC9CC120BD383ACAE7BED0C9576E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RunLoopLearn</string>
+		</dict>
+	</array>
+</dict>
+</plist>
